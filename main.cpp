@@ -18,4 +18,5 @@ int main(int argc, char *argv[])
     spalsh.finish(&w);
     return a.exec();
 	//8/23 tor
+//aaaa
 }
