@@ -1,4 +1,4 @@
-#include "snake.h"
+﻿#include "snake.h"
 #include <QApplication>
 #include <QPixmap>
 #include <QSplashScreen>
@@ -17,4 +17,5 @@ int main(int argc, char *argv[])
     // 结束启动画面
     spalsh.finish(&w);
     return a.exec();
+	//8/23 tor
 }
