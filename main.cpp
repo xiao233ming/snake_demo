@@ -18,5 +18,5 @@ int main(int argc, char *argv[])
     spalsh.finish(&w);
 
     return a.exec();
-	//8/22
+	//8/22 today 
 }
