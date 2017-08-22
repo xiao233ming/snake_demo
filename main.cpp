@@ -17,5 +17,7 @@ int main(int argc, char *argv[])
     // 结束启动画面
     spalsh.finish(&w);
 
+
+
     return a.exec();
 }
